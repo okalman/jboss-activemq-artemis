@@ -1,7 +1,6 @@
 # ActiveMQ Artemis
 
 This file describes some minimum 'stuff one needs to know' to get started coding in this project.
-
 ## Source
 
 For details about the modifying the code, building the project, running tests, IDE integration, etc. see
