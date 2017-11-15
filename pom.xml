@@ -28,7 +28,7 @@
       <version>18</version>
       <relativePath>org.apache:apache</relativePath>
    </parent>
-
+a
    <modules>
       <module>artemis-protocols</module>
       <module>artemis-dto</module>
